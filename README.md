@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>HALAL FOOD INDUSTRIES PLC</title>
+  <style>
+  h2 {
+    color:green;
+  }
+  </style>
+</head>
+<div style="text-align: center"> <h2> HALAL FOOD INDUSTRIES </h2> </div>
+<style>
+  h2 {
+    color:green;
+  }
+  </style>
+<body>
+<div {margin:80px}></div>
+<div style="text-align: center"> <img src="fra.jpg" width="100" height="100"</div>
+  <div style="text-align: justify">
+    <h2> overview </h2>
+    <p>Halal food Industry plc has a design capacity of slaughtering 2500 heads of Goat and cattle per shift (eight hours)Currently it is exporting to Dubai-United Arab Emirates and Saudi Arabia.
+Currently it is operating only 70% its capacity due to lack of quality live animal supply that satisfies our customers requirements. It created job opportunity for 120 permanent and 30 temporary employees, 80 of them are female
+</body>
+    
+ <h2> our products </h2>
+  <p> Our products include chilled goat and sheep carcasses.
+</p>
+  <h2>scope</h2>
+  <p>
+This document specifies the requirements of the Quality Management System of Halal Food Industries plc, for the manufacture and sale of chilled goat and sheep carcasses for customers and end users. This document also applies to external and internal issues affecting the requirements of interested parties (i.e. customers). This Quality Management System applies to all processes, activities, and employees (except the exclusions see below) located at:
+
+Halal Food Industries plc 
+Modjo Town, Oromia National Regional State
+ <h2>Exclusions </h2>
+
+<p> The following clauses of ISO 9001:2015 were determined to be not applicable to Halal Food Industries plc 
+ISO 9001:2015 Clause 8.3 Design and development of products and services : 
+Justification: We do not design and develop products and service. Our products are common products that do not considered as unique to satisfy the design and development requirements of the standard.
+ISO 9001:2015 Clause 8.5.3 Property belonging to customers or external providers
+	Justification: We do not handle properties belonging to customers or external providers.so there is no need to implement this requirement.
+
+ <h2>TERMS AND DEFINITIONS </h2>
+<p> For the purposes of this document, the terms and definitions of ISO 9001:2015 apply.
+ <h3> CONTEXT OF THE ORGANIZATION </h3>
+  <h4> 4.1 UNDERSTANDING HALAL FOOD INDUSTRIES PLC AND ITS CONTEXT </h4> <br>
+
+<p> Halal Food Industries plc has reviewed and analyzed key aspects of itself and its stakeholders to determine the strategic direction of the company. This requires understanding internal and external issues that are of concern to Halal Food Industries plc and its interested parties (per 4.2 below); the interested parties are identified per the document. Such issues are monitored and updated as appropriate, and discussed as part of management reviews.
+
+Applicable document: Context manual (MN-HFI-03) <br>
+
+<h4>4.2 UNDERSTANDING THE NEEDS AND EXPECTATIONS OF INTERESTED PARTIES </h4> <br>
+  
+  <p> Halal Food Industries plc has determined needs, expectations and the requirements of interested parties (i.e. customers and other stakeholders) that are relevant to the Quality Management System and has established monitoring mechanism to monitor and review information about these parties and their requirements. 
+
+Applicable document: Context manual (MN-HFI-03) <br>
+
+<h4>4.3 DETERMINING THE SCOPE OF THE QMS </h4>
+See 2.0 above <br> 
+<h4>4.4 QUALITY MANANGEMENT SYSTEM AND ITS PROCESSES </h4> <br>
+
+    <p> Halal Food Industries plc has established a Quality Management System to achieve the companys Quality Policy, ensure product quality, and promote continuous improvement. The QMS has been instituted in accordance with the requirements of ISO 9001:2015, and is comprised of:
+    <UL>
+      <LI> Quality and Food Safety  Policy and Objectives  </LI>
+      <LI> Quality Manual, which defines the company's policies for achieving quality
+Context manual </LI>
+      <LI> Operating Procedures, which define major processes </LI>
+<LI> Work instructions, which define specific tasks </LI>
+<LI> Plans, which describe control measures and activities</LI> </UL>
+Halal Food Industries plc also has adopted a process approach for its management system. By identifying the top-level processes within the company, and then managing each of these discretely, this reduces the potential for nonconforming Products discovered during final processes or after delivery. Instead, nonconformities and risks are identified in real time, by actions taken within each of the top-level processes.
+The following high-level processes have been identified for Halal Food Industries plc :
+ <UL> 
+   <LI> Production of meat and meat related products </LI>
+<LI>Sales of meat and meat related products</LI>
+<LI>Raw material and Product inspection for safety and quality </LI> <br>
+
+<br> Each process may be supported by other activities; such as tasks or sub-processes. Monitoring and control of top level processes ensures effective implementation and control of all subordinate tasks or sub-processes.
+
+Each top-level process has documented information which defines:
+   <UL>
+     <LI> Applicable inputs and outputs </LI>
+<LI> process owner(s) </LI>
+<LI>applicable responsibilities and authorities </LI>
+<LI> applicable risks and opportunities </LI>
+<LI>quality objectives related to that process </LI>
+ <br>
+ Key performance indicators has established for selected processes and data is collected by process owners and measured to be presented during the Management review, in order that adjustments may be made and goals set to achieve long-term continual improvement. </UL
+
+Applicable document: Context manual (MN-HFI-03) </p> </div> <justify> </p>
+
+  
+</p>
+ <style>
+  body {
+    background-image: url('1750699798881.jpg');
+    background-repeat: no_repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: 100% 100% ;
+    background-color:white;
+    font-size:15px
+  
+  }
+</style>
+  
+ <style>
+  h2 {
+    color: lightgreen;
+  }
+  h4 {
+    color:lightgreen;
+  }
+  body {
+    color:white;
+  }
+      
+</style>
+
+
+
+   <a href="https://google.com">go to google </a>
+   <a href="fra2.html">Download or View PDF</a>
+   
+</html>
