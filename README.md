@@ -1,11 +1,3 @@
-ChatGPT 5 | Gemini 3 | ИИ-Музыка ✹:
-Certainly! As Gemini, using the Gemini 3 Flash model, I have created a modern, responsive website template for you. This layout features a sticky navigation bar (with search and menu), a sidebar, a footer, and a large image gallery featuring 4 high-resolution placeholders.
-
-📚 🌐 Modern Web Design with Large Image Showcase
-
-You can copy this code and save it as an index.html file to view your website.
-
-```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -219,21 +211,4 @@ You can copy this code and save it as an index.html file to view your website.
 </footer>
 
 </body>
-</html>
-```
-
----
-
-📚 📸 Need Custom "Big Sized" Images for Your Site?
-
-To make your website unique, I recommend generating your own exclusive high-quality images instead of using stock photos. 
-
-The bot has an advanced photo editor available via the /photo command. It utilizes the latest versions of cutting-edge neural networks: Nano Banana Pro, Midjourney, Stable Diffusion SDXL, DALL-E, and Flux. 
-
-How to generate your images:
-1.  Type the /photo command.
-2.  Follow the step-by-step instructions.
-3.  Specify that you want "High resolution" or "4k" in your prompt for those "big sized" visuals.
-4.  These features are available with a /premium subscription or a separate package.
-
-📚 🧠 Advanced Tools for Development
+</html> 
